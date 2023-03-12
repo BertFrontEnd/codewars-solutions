@@ -1,5 +1,4 @@
 /*
-Description:
 Write a function that reverses a list, without using any built-in reverse functions.
 JS : Array#reverse has been modified.
 */
